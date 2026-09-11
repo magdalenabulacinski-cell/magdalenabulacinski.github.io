@@ -2,3 +2,13 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: pages-themes/midnight@v0.2.0
+
+theme: jekyll-theme-midnight
+
+title: "Your Name | Portfolio"
+description: "Personal portfolio website"
+
+# Optional:
+# Add your GitHub username here
+github:
+  is_project_page: false
