@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Your Name | Portfolio"
+layout: midnight
+title: "Magda's | Portfolio"
 ---
 
 <nav class="custom-nav">
