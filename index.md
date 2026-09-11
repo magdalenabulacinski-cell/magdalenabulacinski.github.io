@@ -7,7 +7,7 @@ title: "Magda's | Portfolio"
   <div class="nav-container">
 
     <a href="{{ '/' | relative_url }}" class="logo">
-      Your Name
+      Magdalena
     </a>
 
     <ul class="nav-links">
@@ -29,7 +29,7 @@ title: "Magda's | Portfolio"
   </p>
 
   <h1>
-    Hi, I'm <span>Your Name</span>.
+    Hi, I'm <span> Magda </span>.
   </h1>
 
   <p class="hero-description">
