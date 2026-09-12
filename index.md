@@ -161,7 +161,7 @@ title: "Magda's | Portfolio"
         Provided customer service and resolved problems in a fast-paced environment.
       </li>
 
-    </ul>
+    
 
     </ul>
 
