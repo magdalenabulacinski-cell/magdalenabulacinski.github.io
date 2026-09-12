@@ -7,7 +7,7 @@ title: "Magda's | Portfolio"
   <div class="nav-container">
 
     <a href="{{ '/' | relative_url }}" class="logo">
-      Magdalena
+      Magdalena Bulacinski
     </a>
 
     <ul class="nav-links">
@@ -34,7 +34,8 @@ title: "Magda's | Portfolio"
 
   <p class="hero-description">
     I'm a student / professional interested in rocks, tech,
-    design, and solving geophysical problems.
+    design, and problem solving.
+
   </p>
 
   <div class="buttons">
@@ -60,11 +61,13 @@ title: "Magda's | Portfolio"
   <p class="about-text">
     Write a short introduction about yourself here.
 
-    A 3rd year Geophysics student at The University of Toronto,
-    and what kind of opportunities you're looking for.
+    I'm a 3rd year Geophysics student at The University of Toronto
+    looking for opportunities to collaborate on geophysical and GIS projects.
 
-    This section is a chance to give visitors a quick idea
-    of who you are beyond your resume.
+    On the weekends, I enjoy exploring a robust wilderness or the concrete
+    jungle of Toronto with friends or family. When alone, I get tangled in a book.
+
+    Right now I am reading: Christine by Stephen King
   </p>
 
 </section>
@@ -106,6 +109,72 @@ title: "Magda's | Portfolio"
       <li>
         Add another important achievement or responsibility.
       </li>
+
+
+    </ul>
+
+    <div class="experience-header">
+
+      <div>
+        <h3>Job Title</h3>
+
+        <div class="company">
+          Company Name
+        </div>
+      </div>
+
+      <span class="date">
+        2024 – Present
+      </span>
+
+    </div>
+
+    <ul>
+
+      <li>
+        Describe an accomplishment or responsibility.
+      </li>
+
+      <li>
+        Describe something you contributed to or improved.
+      </li>
+
+      <li>
+        Add another important achievement or responsibility.
+      </li>
+
+    <div class="experience-header">
+
+      <div>
+        <h3>Job Title</h3>
+
+        <div class="company">
+          Company Name
+        </div>
+      </div>
+
+      <span class="date">
+        2024 – Present
+      </span>
+
+    </div>
+
+    <ul>
+
+      <li>
+        Describe an accomplishment or responsibility.
+      </li>
+
+      <li>
+        Describe something you contributed to or improved.
+      </li>
+
+      <li>
+        Add another important achievement or responsibility.
+      </li>
+
+
+    </ul>
 
     </ul>
 
@@ -174,15 +243,15 @@ title: "Magda's | Portfolio"
   <div class="education-item">
 
     <h3>
-      Your Degree
+      BSc, Geophysics Spec.
     </h3>
 
     <p class="education-school">
-      University / College Name
+      The University of Toronto
     </p>
 
     <p class="education-date">
-      2022 – 2026
+      Sept 2024 – Current
     </p>
 
   </div>
@@ -199,15 +268,15 @@ title: "Magda's | Portfolio"
     </p>
 
     <h2>
-      Let's Connect
+      Let's Connect!
     </h2>
 
     <p>
       I'm always open to connecting, discussing opportunities,
-      or talking about interesting projects.
+      or helping with projects.
     </p>
 
-    <a href="mailto:youremail@example.com"
+    <a href="mailto:magdalenabulacinski@gmail.com"
        class="button button-primary">
       Email Me
     </a>
@@ -220,7 +289,7 @@ title: "Magda's | Portfolio"
 <footer>
 
   <p>
-    © 2026 Your Name · Built with Jekyll
+    © 2026 Magdalena Bulacinski · Built with Jekyll
   </p>
 
 </footer>
