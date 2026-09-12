@@ -13,7 +13,7 @@ title: "Magda's | Portfolio"
     <ul class="nav-links">
       <li><a href="#about">About</a></li>
       <li><a href="#experience">Experience</a></li>
-      <li><a href="#skills">Skills</a></li>
+      <li><a href="#skills">Skillz</a></li>
       <li><a href="#education">Education</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
@@ -25,7 +25,7 @@ title: "Magda's | Portfolio"
 <header class="hero">
 
   <p class="hero-label">
-    PORTFOLIO
+    PORTFOLIO 𐦂𖨆𐀪𖠋
   </p>
 
   <h1>
@@ -33,8 +33,8 @@ title: "Magda's | Portfolio"
   </h1>
 
   <p class="hero-description">
-    I'm a student / professional interested in technology,
-    business, design, and solving interesting problems.
+    I'm a student / professional interested in rocks, tech,
+    design, and solving geophysical problems.
   </p>
 
   <div class="buttons">
@@ -60,7 +60,7 @@ title: "Magda's | Portfolio"
   <p class="about-text">
     Write a short introduction about yourself here.
 
-    Talk about what you study or do, what you're interested in,
+    A 3rd year Geophysics student at The University of Toronto,
     and what kind of opportunities you're looking for.
 
     This section is a chance to give visitors a quick idea
