@@ -40,9 +40,6 @@ title: "Magda's | Portfolio"
 
   <div class="buttons">
 
-    <a href="#contact" class="button button-primary">
-      Contact Me
-    </a>
 
     <a href="{{ '/resume.pdf' | relative_url }}"
        class="button button-secondary">
@@ -136,6 +133,7 @@ title: "Magda's | Portfolio"
         Entered, reviewed, and verified client information in office database.
       </li>
 
+    </ul>
 
     <div class="experience-header">
 
