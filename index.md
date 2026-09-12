@@ -83,15 +83,15 @@ title: "Magda's | Portfolio"
     <div class="experience-header">
 
       <div>
-        <h3>Job Title</h3>
+        <h3>Spatial Analysis & Mapping</h3>
 
         <div class="company">
-          Company Name
+          The University of Toronto
         </div>
       </div>
 
       <span class="date">
-        2024 – Present
+        Sept 2024 – Present
       </span>
 
     </div>
@@ -99,16 +99,13 @@ title: "Magda's | Portfolio"
     <ul>
 
       <li>
-        Describe an accomplishment or responsibility.
+        Developed custom maps and spatial models by sourcing, cleaning, and overlaying diverse vector and raster datasets in ArcGIS Pro.
       </li>
 
       <li>
-        Describe something you contributed to or improved.
+        Wrote and debugged Python scripts to automate the processing and analysis of scientific geological and environmental datasets.
       </li>
 
-      <li>
-        Add another important achievement or responsibility.
-      </li>
 
 
     </ul>
@@ -116,15 +113,15 @@ title: "Magda's | Portfolio"
     <div class="experience-header">
 
       <div>
-        <h3>Job Title</h3>
+        <h3>Office Administrator</h3>
 
         <div class="company">
-          Company Name
+          Dr. Kathleen Breen Optometry Clinic
         </div>
       </div>
 
       <span class="date">
-        2024 – Present
+        June 2023 - Sept 2024
       </span>
 
     </div>
@@ -132,29 +129,26 @@ title: "Magda's | Portfolio"
     <ul>
 
       <li>
-        Describe an accomplishment or responsibility.
+        Managed administrative records while organizing digital and physical documentation systems.
       </li>
 
       <li>
-        Describe something you contributed to or improved.
+        Entered, reviewed, and verified client information in office database.
       </li>
 
-      <li>
-        Add another important achievement or responsibility.
-      </li>
 
     <div class="experience-header">
 
       <div>
-        <h3>Job Title</h3>
+        <h3>Supervisor & Lead Sales Associate</h3>
 
         <div class="company">
-          Company Name
+          The Salvation Army Port Credit
         </div>
       </div>
 
       <span class="date">
-        2024 – Present
+        Nov 2022 - Dec 2023
       </span>
 
     </div>
@@ -162,17 +156,12 @@ title: "Magda's | Portfolio"
     <ul>
 
       <li>
-        Describe an accomplishment or responsibility.
+        Supervised daily store operations and coordinated employee tasks.
       </li>
 
       <li>
-        Describe something you contributed to or improved.
+        Provided customer service and resolved problems in a fast-paced environment.
       </li>
-
-      <li>
-        Add another important achievement or responsibility.
-      </li>
-
 
     </ul>
 
@@ -183,33 +172,7 @@ title: "Magda's | Portfolio"
 
   <div class="experience-item">
 
-    <div class="experience-header">
-
-      <div>
-        <h3>Previous Job / Internship</h3>
-
-        <div class="company">
-          Previous Company
-        </div>
-      </div>
-
-      <span class="date">
-        2023 – 2024
-      </span>
-
-    </div>
-
-    <ul>
-
-      <li>
-        Describe your responsibility or accomplishment.
-      </li>
-
-      <li>
-        Describe a skill you developed.
-      </li>
-
-    </ul>
+    
 
   </div>
 
@@ -223,13 +186,14 @@ title: "Magda's | Portfolio"
   <div class="skills">
 
     <span class="skill">Python</span>
+    <span class="skill">GIS</span>
+    <span class="skill">Global Mapper</span>
     <span class="skill">Java</span>
     <span class="skill">JavaScript</span>
     <span class="skill">HTML & CSS</span>
-    <span class="skill">Microsoft Excel</span>
+    <span class="skill">Microsoft Office</span>
     <span class="skill">Communication</span>
     <span class="skill">Leadership</span>
-    <span class="skill">Problem Solving</span>
 
   </div>
 
@@ -251,7 +215,7 @@ title: "Magda's | Portfolio"
     </p>
 
     <p class="education-date">
-      Sept 2024 – Current
+      Sept 2024 – Present
     </p>
 
   </div>
@@ -268,7 +232,7 @@ title: "Magda's | Portfolio"
     </p>
 
     <h2>
-      Let's Connect!
+      Reach out! Touch base!
     </h2>
 
     <p>
