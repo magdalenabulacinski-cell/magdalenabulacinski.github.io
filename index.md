@@ -5,7 +5,10 @@ title: "Magda's | Portfolio"
 
 <nav class="custom-nav">
   <div class="nav-container">
-
+    <div>
+    </div>
+    <div>
+    </div>
     <a href="{{ '/' | relative_url }}" class="logo">
       Magdalena Bulacinski
     </a>
