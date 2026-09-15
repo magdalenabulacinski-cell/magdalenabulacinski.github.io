@@ -62,9 +62,10 @@ title: "Magda's | Portfolio"
 
     I'm a 3rd year Geophysics student at The University of Toronto
     looking for opportunities to collaborate on geophysical & GIS projects. I am open to energy & resource exploration, Earth systems modeling, seismology, & anything GIS.
-
+    <div>
     On the weekends, I enjoy exploring a robust wilderness or the concrete
     jungle of Toronto with friends & family.
+    </div>
     <div>
   
     Right now I am reading: Christine by Stephen King
@@ -100,11 +101,11 @@ title: "Magda's | Portfolio"
     <ul>
 
       <li>
-        Developed custom maps and spatial models by sourcing, cleaning, and overlaying diverse vector and raster datasets in ArcGIS Pro.
+        Developed custom maps & spatial models by sourcing, cleaning, & overlaying diverse vector & raster datasets in ArcGIS Pro.
       </li>
 
       <li>
-        Wrote and debugged Python scripts to automate the processing and analysis of scientific geological and environmental datasets.
+        Wrote / debugged Python scripts to automate the processing & analysis of environmental datasets.
       </li>
 
 
@@ -134,7 +135,7 @@ title: "Magda's | Portfolio"
       </li>
 
       <li>
-        Entered, reviewed, and verified client information in office database.
+        Entered, reviewed, & verified client information in office database.
       </li>
 
     </ul>
@@ -158,11 +159,11 @@ title: "Magda's | Portfolio"
     <ul>
 
       <li>
-        Supervised daily store operations and coordinated employee tasks.
+        Supervised daily store operations & coordinated employee tasks.
       </li>
 
       <li>
-        Provided customer service and resolved problems in a fast-paced environment.
+        Provided customer service & resolved problems in a fast-paced environment.
       </li>
 
     
