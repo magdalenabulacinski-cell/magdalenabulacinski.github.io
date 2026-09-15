@@ -64,7 +64,7 @@ title: "Magda's | Portfolio"
   <p class="about-text">
 
     I'm a 3rd year Geophysics student at The University of Toronto
-    looking for opportunities to collaborate on geophysical & GIS projects. I am open to energy & resource exploration, Earth systems modeling, seismology, & anything GIS.
+    looking for opportunities to collaborate on geophysical & GIS projects. I am open to energy & resource exploration, Earth systems modeling, seismology, & anything ArcGIS.
     <div>
     On the weekends, I enjoy exploring a robust wilderness or the concrete
     jungle of Toronto with friends & family.
