@@ -59,10 +59,9 @@ title: "Magda's | Portfolio"
   <h2>About Me</h2>
 
   <p class="about-text">
-    Write a short introduction about yourself here.
 
     I'm a 3rd year Geophysics student at The University of Toronto
-    looking for opportunities to collaborate on geophysical & GIS projects.
+    looking for opportunities to collaborate on geophysical & GIS projects. I am open to energy & resource exploration, Earth systems modeling, seismology, & anything GIS.
 
     On the weekends, I enjoy exploring a robust wilderness or the concrete
     jungle of Toronto with friends & family.
