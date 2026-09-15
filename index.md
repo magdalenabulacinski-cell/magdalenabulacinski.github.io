@@ -34,9 +34,9 @@ title: "Magda's | Portfolio"
 
   <p class="hero-description">
     I'm a student / professional interested in rocks, tech,
-    design, and problem solving.
+    design, & problem solving.
     <div>
-      GTA based
+      Toronto based. 
     </div>
 
   </p>
@@ -44,7 +44,7 @@ title: "Magda's | Portfolio"
   <div class="buttons">
 
 
-    <a href="{{ '/resume.pdf' | relative_url }}"
+    <a href="{{ '/Bulacinski_.pdf' | relative_url }}"
        class="button button-secondary">
       View My Resume
     </a>
@@ -62,10 +62,10 @@ title: "Magda's | Portfolio"
     Write a short introduction about yourself here.
 
     I'm a 3rd year Geophysics student at The University of Toronto
-    looking for opportunities to collaborate on geophysical and GIS projects.
+    looking for opportunities to collaborate on geophysical & GIS projects.
 
     On the weekends, I enjoy exploring a robust wilderness or the concrete
-    jungle of Toronto with friends or family. When alone, I get tangled in a book.
+    jungle of Toronto with friends & family.
     <div>
   
     Right now I am reading: Christine by Stephen King
@@ -188,15 +188,15 @@ title: "Magda's | Portfolio"
 
   <div class="skills">
 
-    <span class="skill">Python</span>
-    <span class="skill">GIS</span>
-    <span class="skill">Global Mapper</span>
-    <span class="skill">Java</span>
-    <span class="skill">JavaScript</span>
-    <span class="skill">HTML & CSS</span>
-    <span class="skill">Microsoft Office</span>
-    <span class="skill">Communication</span>
-    <span class="skill">Leadership</span>
+    <span class="skill">Python,  </span>
+    <span class="skill">GIS,  </span>
+    <span class="skill">Global Mapper,  </span>
+    <span class="skill">Java,  </span>
+    <span class="skill">JavaScript,  </span>
+    <span class="skill">HTML & CSS,  </span>
+    <span class="skill">Microsoft Office,  </span>
+    <span class="skill">Communication,  </span>
+    <span class="skill">Leadership.</span>
 
   </div>
 
