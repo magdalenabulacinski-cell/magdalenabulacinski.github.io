@@ -35,6 +35,9 @@ title: "Magda's | Portfolio"
   <p class="hero-description">
     I'm a student / professional interested in rocks, tech,
     design, and problem solving.
+    <div>
+      GTA based
+    </div>
 
   </p>
 
@@ -63,8 +66,10 @@ title: "Magda's | Portfolio"
 
     On the weekends, I enjoy exploring a robust wilderness or the concrete
     jungle of Toronto with friends or family. When alone, I get tangled in a book.
-
+    <div>
+  
     Right now I am reading: Christine by Stephen King
+    </div>
   </p>
 
 </section>
@@ -226,7 +231,7 @@ title: "Magda's | Portfolio"
   <div class="contact-box">
 
     <p class="hero-label">
-      GET IN TOUCH
+      
     </p>
 
     <h2>
@@ -234,8 +239,7 @@ title: "Magda's | Portfolio"
     </h2>
 
     <p>
-      I'm always open to connecting, discussing opportunities,
-      or helping with projects.
+      I look forward to your email.
     </p>
 
     <a href="mailto:magdalenabulacinski@gmail.com"
